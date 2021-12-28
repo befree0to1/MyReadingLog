@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/befree0to1/myreadinglog/static/css/main.03774db8.css",
-    "main.js": "/befree0to1/myreadinglog/static/js/main.6252070f.js",
-    "static/media/new밤편지배경화면.jpg": "/befree0to1/myreadinglog/static/media/new밤편지배경화면.cd25581561f647becad2.jpg",
-    "index.html": "/befree0to1/myreadinglog/index.html",
-    "main.03774db8.css.map": "/befree0to1/myreadinglog/static/css/main.03774db8.css.map",
-    "main.6252070f.js.map": "/befree0to1/myreadinglog/static/js/main.6252070f.js.map"
+    "main.css": "/befree0to1/MyReadingLog/static/css/main.8aa8647c.css",
+    "main.js": "/befree0to1/MyReadingLog/static/js/main.6252070f.js",
+    "static/media/new밤편지배경화면.jpg": "/befree0to1/MyReadingLog/static/media/new밤편지배경화면.cd25581561f647becad2.jpg",
+    "index.html": "/befree0to1/MyReadingLog/index.html",
+    "main.8aa8647c.css.map": "/befree0to1/MyReadingLog/static/css/main.8aa8647c.css.map",
+    "main.6252070f.js.map": "/befree0to1/MyReadingLog/static/js/main.6252070f.js.map"
   },
   "entrypoints": [
-    "static/css/main.03774db8.css",
+    "static/css/main.8aa8647c.css",
     "static/js/main.6252070f.js"
   ]
 }
