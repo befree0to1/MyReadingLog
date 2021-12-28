@@ -1,0 +1,36 @@
+body {
+  font-family: "GowunBatang-Regular";
+  font-size: 15pt;
+  color: aliceblue;
+  background-image: url("D:\mycoding\myreadinglog\image\new밤편지배경화면.jpg");
+  background-size: 100%;
+  margin: 5%;
+}
+
+p {
+  padding: 2%;
+}
+
+ul {
+  list-style: none;
+}
+
+article {
+  margin: 5%;
+}
+
+a,
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
+  color: inherit;
+}
+
+@font-face {
+  font-family: "GowunBatang-Regular";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/GowunBatang-Regular.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
