@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/befree0to1/MyReadingLog/static/css/main.8aa8647c.css",
-    "main.js": "/befree0to1/MyReadingLog/static/js/main.c09ff13e.js",
-    "static/media/new밤편지배경화면.jpg": "/befree0to1/MyReadingLog/static/media/new밤편지배경화면.cd25581561f647becad2.jpg",
-    "index.html": "/befree0to1/MyReadingLog/index.html",
-    "main.8aa8647c.css.map": "/befree0to1/MyReadingLog/static/css/main.8aa8647c.css.map",
-    "main.c09ff13e.js.map": "/befree0to1/MyReadingLog/static/js/main.c09ff13e.js.map"
+    "main.css": "/MyReadingLog/static/css/main.5ccffe75.css",
+    "main.js": "/MyReadingLog/static/js/main.c09ff13e.js",
+    "static/media/new밤편지배경화면.jpg": "/MyReadingLog/static/media/new밤편지배경화면.cd25581561f647becad2.jpg",
+    "index.html": "/MyReadingLog/index.html",
+    "main.5ccffe75.css.map": "/MyReadingLog/static/css/main.5ccffe75.css.map",
+    "main.c09ff13e.js.map": "/MyReadingLog/static/js/main.c09ff13e.js.map"
   },
   "entrypoints": [
-    "static/css/main.8aa8647c.css",
+    "static/css/main.5ccffe75.css",
     "static/js/main.c09ff13e.js"
   ]
 }
